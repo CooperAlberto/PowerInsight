@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly==5.15.0
+plotly-express==0.4.1
+numpy
+kaleido
